@@ -1,0 +1,27 @@
+{
+  "name": "micro-library",
+  "version": "1.0.0",
+  "description": "Get random starwars name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonatanSala/microLibrary.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Ionatan Sala <sala.jonatan1995@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonatanSala/microLibrary/issues"
+  },
+  "homepage": "https://github.com/IonatanSala/microLibrary#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
